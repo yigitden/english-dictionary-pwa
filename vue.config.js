@@ -18,6 +18,7 @@ module.exports = {
     backgroundColor: "#f8fafc",
     start_url: "/",
     display: "fullscreen",
-    orientation: "portrait"
+    orientation: "portrait",
+    appleMobileWebAppCapable:"yes"
   }
 }
